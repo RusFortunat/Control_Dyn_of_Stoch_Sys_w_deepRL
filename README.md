@@ -1,4 +1,4 @@
-## Particle coalescen on a lattice with deep RL
+## Particle coalescence on a lattice with deep RL
 
 This repository contains the code that was used to generate the coalescence results in "Controlling dynamics of stochastic systems with deep reinforcement learning" paper. 
 
